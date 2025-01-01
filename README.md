@@ -26,7 +26,8 @@ The project connects an **ESP32/ESP8266** microcontroller to a **Google Sheet** 
 
 ## Flowchat (Pipeline)
 
-(Untitled diagram-2025-01-01-152832.png)
+![Flowchart](ESP32-Sheet-Control/Untitled diagram-2025-01-01-152832.png)
+
 
 ## Impact & Applications 🌍
 
