@@ -24,6 +24,10 @@ The project connects an **ESP32/ESP8266** microcontroller to a **Google Sheet** 
 3. **ESP32** receives data and controls the LED accordingly.
 4. The loop continues with periodic checks.
 
+## Flowchat (Pipeline)
+
+(Untitled diagram-2025-01-01-152832.png)
+
 ## Impact & Applications 🌍
 
 - **Remote Control**: Control devices like lights, fans, etc., via Google Sheets.
